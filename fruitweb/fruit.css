@@ -3,79 +3,98 @@
     0%
     {
         background: url("images/fruit1.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     5.9%
     {
         background: url("images/fruit2.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     11.8%
     {
         background: url("images/fruit3.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     17.7%
     {
         background: url("images/fruit4.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     23.6%
     {
         background: url("images/fruit5.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     29.5%
     {
         background: url("images/fruit6.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     35.4%
     {
         background: url("images/fruit7.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     41.3%
     {
         background: url("images/fruit8.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     47.2%
     {
         background: url("images/fruit9.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     53.1%
     {
         background: url("images/fruit10.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     59%
     {
         background: url("images/fruit11.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     64.9%
     {
         background: url("images/fruit12.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }
     70.8%
     {
         background: url("images/fruit13.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }    
     76.7%
     {
         background: url("images/fruit14.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     82.6%
     {
         background: url("images/fruit15.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     88.5%
     {
         background: url("images/fruit16.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     94.4%
     {
         background: url("images/fruit17.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
     100%
     {
         background: url("images/fruit1.jpg") no-repeat fixed;
+        background-size: 100% 100%;
     }  
 }
 body
 {
     background: url("images/fruit1.jpg") no-repeat fixed;
+    background-size: 100% 100%;
     animation: animbackground 170s linear infinite alternate;
     overflow: auto;
     word-wrap: normal;
